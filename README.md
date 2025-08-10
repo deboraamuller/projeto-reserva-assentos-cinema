@@ -26,5 +26,4 @@ Este programa simula o controle de ocupação dos assentos de uma sala de cinema
 - Assento válido: 1 a 10
 - Mensagens de erro para assento inválido ou ocupado.
 
-gcc cinema.c -o cinema
 
